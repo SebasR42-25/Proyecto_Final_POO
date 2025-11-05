@@ -4,6 +4,6 @@
 
 #include <iostream>
 int main() {
-    std::cout << "Proyecto_Final_POO listo y en Proceso de Inicio!\n";
+    std::cout << "Proyecto Final de POO listo y en Proceso de Inicio!\n";
     return 0;
 }
