@@ -5,7 +5,10 @@
 *.slo
 *.lo
 *.o
+cmake-build-*/
+.idea/
 *.obj
+*.log
 
 # Precompiled Headers
 *.gch
